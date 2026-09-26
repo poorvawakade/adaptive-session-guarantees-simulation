@@ -1,0 +1,9 @@
+config,migration_prob,policy,avg_latency,avg_overhead
+mig10,0.1,fixed_strong,1.1727,0.167
+mig10,0.1,adaptive,1.0793,0.013
+mig20,0.2,fixed_strong,1.1511,0.151
+mig20,0.2,adaptive,1.0937999999999999,0.026
+mig30,0.3,fixed_strong,1.1636,0.152
+mig30,0.3,adaptive,1.0933,0.033
+mig40,0.4,fixed_strong,1.1452,0.136
+mig40,0.4,adaptive,1.1131,0.051
